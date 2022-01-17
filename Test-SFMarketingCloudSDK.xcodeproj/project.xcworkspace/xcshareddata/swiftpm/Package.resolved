@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "MarketingCloudSDK",
+        "repositoryURL": "https://github.com/salesforce-marketingcloud/MarketingCloudSDK-iOS.git",
+        "state": {
+          "branch": null,
+          "revision": "8ce9a9751bec18d3deb942c28a1b05163d88fe5f",
+          "version": "8.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
